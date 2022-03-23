@@ -10,7 +10,7 @@ A compilation of articles, links and videos to learn web3 and blockchain develop
 
 
 ## People to follow
-- https://twitter.com/yansh_
+- [yansh_](https://twitter.com/yansh_)
 
 ## Sources
 - https://twitter.com/yansh_/status/1506539752526594058
