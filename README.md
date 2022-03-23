@@ -9,5 +9,8 @@ A compilation of articles, links and videos to learn web3 and blockchain develop
 - [Smart Contracts Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
 
 
+## People to follow
+- https://twitter.com/yansh_
+
 ## Sources
 - https://twitter.com/yansh_/status/1506539752526594058
